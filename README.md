@@ -3,9 +3,9 @@
 # Nim: 312010135
 
 
-# Layout sederhana Menggunakan Bootstrap Framewok
+ ## Layout sederhana Menggunakan Bootstrap Framewok
 
-## Lankah-Langkah membuat layout sederhana menggunakan bootstrap framework
+- ## Lankah-Langkah membuat layout sederhana menggunakan bootstrap framework
 
 ### 1. Membuat Documet HTML
 
