@@ -76,7 +76,7 @@ Bootstrap framework, boostrap sendiri merupakan website open source yang didalam
         </section>
 ```
 
-### Cards
+### 4. Cards
 
 Saya menggunakan cards, Untuk membuat body konten.
 ![img](asset/bootstrap/img/Body%20cards.png)
